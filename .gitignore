@@ -1,0 +1,9 @@
+# Local Code Composer Studio workspace metadata
+.metadata/
+
+# Local editor and Keil build intermediates
+keil/.vscode/
+keil/Objects/*
+!keil/Objects/*.hex
+keil/*.map
+keil/*.uvguix.*
